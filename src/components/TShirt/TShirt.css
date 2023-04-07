@@ -1,0 +1,22 @@
+.t-shirt{
+    border: 2px solid lightblue;
+    padding: 10px;
+    border-radius: 10px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+.t-shirt img{
+    height: 300px ;
+    object-fit: cover;
+    border-radius: 15px;
+    box-shadow: 2px 3px 3px 2px gray; 
+}
+
+.btn{
+    background-color: indianred ;
+    width: 50%;
+    margin-top: auto;
+    margin: auto auto 0 ;
+    padding: 15px 0px;
+}
